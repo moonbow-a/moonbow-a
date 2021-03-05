@@ -4,7 +4,7 @@ Hi everyone!
 My name is Alina, and this page is my work!
 
 I: | Love:
-
+---------
  ✔ Creative person |  ♥ Create site
  
  ✔ Junior Frontend Developer
