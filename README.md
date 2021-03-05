@@ -17,7 +17,7 @@ Love:
 
  ♥ Create site
  
- ♥ Cats
+ ♥ Cats                                                        https://media.giphy.com/media/Maa8ChhQQV6ONFlAqZ/giphy.gif
 
  ♥ Smart and talented people!
 
