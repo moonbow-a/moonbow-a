@@ -7,13 +7,13 @@ My name is Alina, and this page is my work!
 
 I: 
 
- ✔ Creative person 
+ ⭐ Creative person 
  
- ✔ Junior Frontend Developer
+ ⭐ Junior Frontend Developer
  
- ✔ Illustrator
+ ⭐ Illustrator
  
- ✔ Live in Poland.
+ ⭐ Live in Poland.
 
 
  Love:  
