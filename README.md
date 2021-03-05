@@ -14,11 +14,16 @@ I:
  ✔ Live in Poland.
 
 Love:
-- ♥ Create site
-- ♥ Cats
-- ♥ Smart and talented people!
-- ♥ Draw
-- ♥ Music
+
+ ♥ Create site
+ 
+ ♥ Cats
+
+ ♥ Smart and talented people!
+
+ ♥ Draw
+
+ ♥ Music
 
 Contact me: alinakharchenko2017@gmail.com
 
