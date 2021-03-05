@@ -18,7 +18,7 @@ I:
  
  ♥ Create site
  
- ♥ Cats                                           '<https://media.giphy.com/media/Maa8ChhQQV6ONFlAqZ/giphy.gif>'                                         
+ ♥ Cats                                                                                
 
  ♥ Smart and talented people!
 
