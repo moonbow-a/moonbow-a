@@ -3,9 +3,9 @@
 Hi everyone!
 My name is Alina, and this page is my work!
 
-I:
+I: | Love:
 
- ✔ Creative person 
+ ✔ Creative person |  ♥ Create site
  
  ✔ Junior Frontend Developer
  
@@ -13,11 +13,11 @@ I:
  
  ✔ Live in Poland.
 
-Love:
 
- ♥ Create site
+
+
  
- ♥ Cats                                                        https://media.giphy.com/media/Maa8ChhQQV6ONFlAqZ/giphy.gif
+ ♥ Cats                                                       
 
  ♥ Smart and talented people!
 
