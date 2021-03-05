@@ -1,6 +1,6 @@
-# ABOUT ME
+## ABOUT ME
 
-## Hi everyone!
+Hi everyone!
 My name is Alina, and this page is my work!
 
 I:
