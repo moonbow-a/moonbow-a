@@ -4,10 +4,14 @@
 My name is Alina, and this page is my work!
 
 I:
-- ✔ Creative person 
-- ✔ Junior Frontend Developer
-- ✔ Illustrator
-- ✔ Live in Poland.
+
+ ✔ Creative person 
+ 
+ ✔ Junior Frontend Developer
+ 
+ ✔ Illustrator
+ 
+ ✔ Live in Poland.
 
 Love:
 - ♥ Create site
