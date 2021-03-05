@@ -3,17 +3,17 @@
 ## Hi everyone!
 My name is Alina, and this page is my work!
 I:
-✔ Creative person 
-✔ Junior Frontend Developer
-✔ Illustrator
-✔ Live in Poland.
+- ✔ Creative person 
+- ✔ Junior Frontend Developer
+- ✔ Illustrator
+- ✔ Live in Poland.
 
 Love:
-♥ Create site
-♥ Cats
-♥ Smart and talented people!
-♥ Draw
-♥ Music
+- ♥ Create site
+- ♥ Cats
+- ♥ Smart and talented people!
+- ♥ Draw
+- ♥ Music
 
 Contact me: alinakharchenko2017@gmail.com
 
