@@ -15,9 +15,7 @@ I:
 
 
  Love:  
- 
- <iframe src="https://giphy.com/embed/Maa8ChhQQV6ONFlAqZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
- 
+  
  ♥ Create site
  
  ♥ Cats                                                                                
