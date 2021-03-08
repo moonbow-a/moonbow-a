@@ -13,7 +13,7 @@ I:
  
  ⭐ Illustrator
  
- ⭐ Live in Poland.
+ ⭐ Live in Poland
 
 
  Love:  
