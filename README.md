@@ -9,7 +9,7 @@ I:
 
  ⭐ Creative person 
  
- ⭐ Junior Frontend Developer
+ ⭐ Junior Frontend Developer(React)
  
  ⭐ Illustrator
  
